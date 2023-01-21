@@ -1,0 +1,15 @@
+C:\Users\imsp\source\kata\TPL\TPL\TPL\bin\Debug\net6.0\TPL.exe
+C:\Users\imsp\source\kata\TPL\TPL\TPL\bin\Debug\net6.0\TPL.deps.json
+C:\Users\imsp\source\kata\TPL\TPL\TPL\bin\Debug\net6.0\TPL.runtimeconfig.json
+C:\Users\imsp\source\kata\TPL\TPL\TPL\bin\Debug\net6.0\TPL.dll
+C:\Users\imsp\source\kata\TPL\TPL\TPL\bin\Debug\net6.0\ref\TPL.dll
+C:\Users\imsp\source\kata\TPL\TPL\TPL\bin\Debug\net6.0\TPL.pdb
+C:\Users\imsp\source\kata\TPL\TPL\TPL\obj\Debug\net6.0\TPL.csproj.AssemblyReference.cache
+C:\Users\imsp\source\kata\TPL\TPL\TPL\obj\Debug\net6.0\TPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imsp\source\kata\TPL\TPL\TPL\obj\Debug\net6.0\TPL.AssemblyInfoInputs.cache
+C:\Users\imsp\source\kata\TPL\TPL\TPL\obj\Debug\net6.0\TPL.AssemblyInfo.cs
+C:\Users\imsp\source\kata\TPL\TPL\TPL\obj\Debug\net6.0\TPL.csproj.CoreCompileInputs.cache
+C:\Users\imsp\source\kata\TPL\TPL\TPL\obj\Debug\net6.0\TPL.dll
+C:\Users\imsp\source\kata\TPL\TPL\TPL\obj\Debug\net6.0\ref\TPL.dll
+C:\Users\imsp\source\kata\TPL\TPL\TPL\obj\Debug\net6.0\TPL.pdb
+C:\Users\imsp\source\kata\TPL\TPL\TPL\obj\Debug\net6.0\TPL.genruntimeconfig.cache
